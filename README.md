@@ -1,24 +1,18 @@
-# nft-card-component
+# NFT card componenet written in Vue.js
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt Text](https://github.com/johnnyperdomo/nft-card-component/blob/main/src/assets/nft-card.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Built with**
+- Vue.js 2
+- Bootstrap CSS
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Features
+- **Hover over card and change active state**
+- **Handle card click events**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+```
+  npm run serve
+  ```
