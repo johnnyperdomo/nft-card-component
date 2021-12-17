@@ -1,4 +1,4 @@
-# NFT card componenet written in Vue.js
+# NFT card component written in Vue.js
 
 ## Preview
 
