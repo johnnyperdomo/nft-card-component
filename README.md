@@ -1,5 +1,7 @@
 # NFT card component written in Vue.js
 
+[View Live Preview 🌎](https://nft-card-component-omega.vercel.app/)
+
 ## Preview
 
 ![Alt Text](https://github.com/johnnyperdomo/nft-card-component/blob/main/src/assets/nft-card.gif)
